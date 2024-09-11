@@ -125,37 +125,3 @@ stages:
         ResourceGroupLocation: "${{ variables.ResourceGroupLocation }}"
         ADFArtifactName: "${{ variables.ADFArtifactName }}"
         Environment: "${{ variables.Environment }}"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
